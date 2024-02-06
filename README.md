@@ -31,7 +31,8 @@ To play **Snake Tribute**, follow these steps:
    - Make sure you have Java Runtime Environment (JRE) installed on your machine.
 
 2. **Download the JAR file:**
-   - [Download Snake Tribute](https://nancymarques.itch.io/snake)
+   - [![Download Snake Tribute](https://img.shields.io/badge/Download-Snake_Tribute-blue.svg)](https://nancymarques.itch.io/snake)
+
 
 3. **Run the game:**
    - Open a terminal or command prompt.
